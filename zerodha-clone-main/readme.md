@@ -1,3 +1,5 @@
 I designed and developed a highly responsive single-page application (SPA) using React.js, structuring content with HTML, styling with advanced CSS techniques, and implementing core logic and dynamic functionality using JavaScript. To enhance user experience, I integrated a Bootstrap navigation bar, ensuring smooth and intuitive site navigation. Additionally, I incorporated Material UI icons, carefully selecting and customizing them to align with the brand's identity, resulting in a polished and professional visual experience.
 
 On the backend, I utilized Node.js to build a robust and efficient server-side infrastructure. Leveraging Node.js’s runtime environment allowed me to optimize performance and handle server-side operations seamlessly. By combining these technologies, I was able to create a full-stack application that not only delivers high performance but also offers a clean, modern, and user-friendly interface, ultimately improving both functionality and user engagement.Please choose the "branch" corresponding to the topic to find the code up to that point.
+
+https://trading-platform-eight.vercel.app/
